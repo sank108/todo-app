@@ -12,7 +12,7 @@ function App() {
       <PageTitle>TODO LIST</PageTitle>
       <div className={style.app__wrapper}>
         <AppHeader/>
-        <AppContent/>
+        <AppContent/> 
       </div>
 
     </div>
